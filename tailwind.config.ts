@@ -8,6 +8,7 @@ const config: Config = {
     extend: {
       gridTemplateColumns: {
         app: 'minmax(18rem, 20rem) 1fr', // min(18)=>16x18, max(20)=>16x20 
+        profile: 'max-content 1fr max-content',
       },
       maxWidth: {
         app: '700px',
