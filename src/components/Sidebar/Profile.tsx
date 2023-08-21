@@ -23,9 +23,9 @@ export function Profile() {
       
       <button 
         type="button" 
-        className="ml-auto rounded-md p-2 hover:bg-zinc-100"
+        className="group ml-auto rounded-md p-2 hover:bg-violet-100"
       >
-        <LogOut className="h-5 w-5 text-zinc-500"/>
+        <LogOut className="h-5 w-5 text-zinc-500 group-hover:text-violet-300"/>
       </button>
     </div>
   )
