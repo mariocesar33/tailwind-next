@@ -10,7 +10,7 @@ export function SettingsTabs() {
           value='my-details' 
           className='px-1 pb-4 text-sm font-medium text-zinc-500 hover:text-violet-700'
         >
-          <span className=''>My details</span>
+          <span className="">My details</span>
         </Tabs.Trigger>
       </Tabs.List>
     </Tabs.Root>
